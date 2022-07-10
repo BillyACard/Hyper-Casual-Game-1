@@ -9,6 +9,13 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+WebGL\ [Bb]uilds/
+WebGL\ [Bb]uilds.meta
+GUI Kit\ - Neon/
+GUI Kit\ - Neon.meta
+Plugins/
+TextMesh\ Pro
+TextMesh\ Pro.meta
 .idea/
 .DS_STORE
 

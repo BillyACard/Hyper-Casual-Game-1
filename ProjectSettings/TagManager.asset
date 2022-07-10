@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Wall
   - Spike
+  - KillZone
   layers:
   - Default
   - TransparentFX
